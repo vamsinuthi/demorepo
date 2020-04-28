@@ -9,4 +9,7 @@ This is for linux demo of git
 
 change for pull
 
-this is a local change
+in sync branches
+
+This is for local change
+
