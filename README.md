@@ -5,4 +5,4 @@ Added some content
 
 Demo of pull command
 
-new content
+This is for linux demo of git
