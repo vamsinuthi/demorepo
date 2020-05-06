@@ -9,7 +9,7 @@
   <div class="jumbotron" style="background-color:white">
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h2 class="text-center">This is a change for merging code to master from cli, CI/CD. The change for E2E aitomation.</h2>
+      <h2 class="text-center">This is a change for merging code to master from cli, CI/CD. The change for E2E aitomation. Trigger demo</h2>
       <p class="text-center">Now with Travis-CI!</p>
   </div>
 </body>
