@@ -27,7 +27,7 @@ pipeline {
     echo "copying the new code"
     sh label: '', script: 'sudo cp -f target/mvn-hello-world.war /opt/tomcat/webapps/'
     echo "resatrting the service"
-    sh label: '', script: 'sudo systemctl start tomcat'
+    sh label: '', script: 'sudo systemctl start tomcat1'
           }
       }
       
