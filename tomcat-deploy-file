@@ -37,7 +37,7 @@ pipeline {
    }
    post{
           always{
-              emailext body: 'This is a demo for the mail notification', subject: 'Build notification', to: 'sudhakar.pro00@gmail.com'
+              emailext body: "This is a demo for the mail notification. The url for the build is : ${env.BUILD_URL}", subject: 'Build notification', to: 'sudhakar.pro00@gmail.com'
           }
           
           }
